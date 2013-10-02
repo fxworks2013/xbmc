@@ -1,4 +1,0 @@
-xbmc
-====
-
-XBMC Add-on
